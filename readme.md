@@ -7,3 +7,4 @@ REPOS TO KILL:
 https://github.com/HectorPulido/Contra-Like-game-made-with-unity
 https://github.com/HectorPulido/Ridiculus-fishing-clone-made-with-unity/tree/master
 https://github.com/HectorPulido/Space-invaders-like-game
+https://github.com/HectorPulido/rotare-clone
