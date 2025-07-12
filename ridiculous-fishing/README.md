@@ -8,4 +8,4 @@ This game is based on RIDICULUS FISHING, a really interesting mobile game
 * <https://itunes.apple.com/us/app/ridiculous-fishing-a-tale-of-redemption/id601831815?mt=8>
 
 ## Credits
-<TODO>
+TODO
