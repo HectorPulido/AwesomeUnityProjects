@@ -1,0 +1,7592 @@
+fileFormatVersion: 2
+guid: 59aa60bfb136d4f94ae84c75fc95a62f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3145676713365620925
+    second: BalloFightSprites_0
+  - first:
+      213: -429337868816484550
+    second: BalloFightSprites_1
+  - first:
+      213: 1995478617276081215
+    second: BalloFightSprites_2
+  - first:
+      213: -2171845212343843862
+    second: BalloFightSprites_3
+  - first:
+      213: -7747332454533850921
+    second: BalloFightSprites_4
+  - first:
+      213: -6959605376233565093
+    second: BalloFightSprites_5
+  - first:
+      213: 8967603669518115957
+    second: BalloFightSprites_6
+  - first:
+      213: 134421148309461313
+    second: BalloFightSprites_7
+  - first:
+      213: -3562151349462032462
+    second: BalloFightSprites_8
+  - first:
+      213: -6378679918928973276
+    second: BalloFightSprites_9
+  - first:
+      213: 6121690006580967624
+    second: BalloFightSprites_10
+  - first:
+      213: -1094035174413886005
+    second: BalloFightSprites_11
+  - first:
+      213: 2977108265065102367
+    second: BalloFightSprites_12
+  - first:
+      213: 3671547904067254612
+    second: BalloFightSprites_13
+  - first:
+      213: -4679919997432235396
+    second: BalloFightSprites_14
+  - first:
+      213: 4058016128757397157
+    second: BalloFightSprites_15
+  - first:
+      213: -3588668889822068569
+    second: BalloFightSprites_16
+  - first:
+      213: 2473239811957338154
+    second: BalloFightSprites_17
+  - first:
+      213: -752911326025599271
+    second: BalloFightSprites_18
+  - first:
+      213: -964064691660993605
+    second: BalloFightSprites_19
+  - first:
+      213: 6780577741241000232
+    second: BalloFightSprites_20
+  - first:
+      213: 7374521589197998851
+    second: BalloFightSprites_21
+  - first:
+      213: 5215006720009182502
+    second: BalloFightSprites_22
+  - first:
+      213: 1532274245962300443
+    second: BalloFightSprites_23
+  - first:
+      213: -3069024724564761551
+    second: BalloFightSprites_24
+  - first:
+      213: 7855059581695149225
+    second: BalloFightSprites_25
+  - first:
+      213: 5603928830002285524
+    second: BalloFightSprites_26
+  - first:
+      213: 3779089875239525890
+    second: BalloFightSprites_27
+  - first:
+      213: -2030523061445320021
+    second: BalloFightSprites_28
+  - first:
+      213: 4369031904721017934
+    second: BalloFightSprites_29
+  - first:
+      213: -196081764847652363
+    second: BalloFightSprites_30
+  - first:
+      213: 6970193184258138059
+    second: BalloFightSprites_31
+  - first:
+      213: -6067264038169939920
+    second: BalloFightSprites_32
+  - first:
+      213: -4953081383469644844
+    second: BalloFightSprites_33
+  - first:
+      213: 3218185679253628237
+    second: BalloFightSprites_34
+  - first:
+      213: -6754968010099707325
+    second: BalloFightSprites_35
+  - first:
+      213: 6261310333160277564
+    second: BalloFightSprites_36
+  - first:
+      213: 7778030492170585481
+    second: BalloFightSprites_37
+  - first:
+      213: 4132232565965858435
+    second: BalloFightSprites_38
+  - first:
+      213: -5506099614535683289
+    second: BalloFightSprites_39
+  - first:
+      213: 4293311695500267325
+    second: BalloFightSprites_40
+  - first:
+      213: -1850575756806858889
+    second: BalloFightSprites_41
+  - first:
+      213: -2284948885588171544
+    second: BalloFightSprites_42
+  - first:
+      213: 8041052772407050524
+    second: BalloFightSprites_43
+  - first:
+      213: 5698774658523269894
+    second: BalloFightSprites_44
+  - first:
+      213: 5230491643942015240
+    second: BalloFightSprites_45
+  - first:
+      213: -354072128003691254
+    second: BalloFightSprites_46
+  - first:
+      213: -9118715298446610940
+    second: BalloFightSprites_47
+  - first:
+      213: 4981626010175366944
+    second: BalloFightSprites_48
+  - first:
+      213: -6312696717719526916
+    second: BalloFightSprites_49
+  - first:
+      213: 2192553710454878527
+    second: BalloFightSprites_50
+  - first:
+      213: 5427516589084639886
+    second: BalloFightSprites_51
+  - first:
+      213: 45187581029211539
+    second: BalloFightSprites_52
+  - first:
+      213: 778667986923249706
+    second: BalloFightSprites_53
+  - first:
+      213: 4184220754089582956
+    second: BalloFightSprites_54
+  - first:
+      213: -7312807913519671940
+    second: BalloFightSprites_55
+  - first:
+      213: -8961321548914179178
+    second: BalloFightSprites_56
+  - first:
+      213: -1089137152757563103
+    second: BalloFightSprites_57
+  - first:
+      213: -3909423203415938218
+    second: BalloFightSprites_58
+  - first:
+      213: 6135253164728467641
+    second: BalloFightSprites_59
+  - first:
+      213: -8236541431856043269
+    second: BalloFightSprites_60
+  - first:
+      213: -4044265278361997247
+    second: BalloFightSprites_61
+  - first:
+      213: -7574625150722491336
+    second: BalloFightSprites_62
+  - first:
+      213: -7088340282128167386
+    second: BalloFightSprites_63
+  - first:
+      213: -7725330779867560517
+    second: BalloFightSprites_64
+  - first:
+      213: -2569230158623031876
+    second: BalloFightSprites_65
+  - first:
+      213: 6546013474824662339
+    second: BalloFightSprites_66
+  - first:
+      213: 2358310766749115120
+    second: BalloFightSprites_67
+  - first:
+      213: -8967348043402335215
+    second: BalloFightSprites_68
+  - first:
+      213: 6738435987730798301
+    second: BalloFightSprites_69
+  - first:
+      213: 3597772142572731943
+    second: BalloFightSprites_70
+  - first:
+      213: 4868415233871377873
+    second: BalloFightSprites_71
+  - first:
+      213: -2486676366092363615
+    second: BalloFightSprites_72
+  - first:
+      213: -8281276891081748165
+    second: BalloFightSprites_73
+  - first:
+      213: -4829673991959275946
+    second: BalloFightSprites_74
+  - first:
+      213: -1954018884361295764
+    second: BalloFightSprites_75
+  - first:
+      213: -6907355359961691462
+    second: BalloFightSprites_76
+  - first:
+      213: 2236413759489698622
+    second: BalloFightSprites_77
+  - first:
+      213: -186850108383844077
+    second: BalloFightSprites_78
+  - first:
+      213: -2557643475388645428
+    second: BalloFightSprites_79
+  - first:
+      213: -4022672574129771787
+    second: BalloFightSprites_80
+  - first:
+      213: -4656718908397056443
+    second: BalloFightSprites_81
+  - first:
+      213: 1184053298458386999
+    second: BalloFightSprites_82
+  - first:
+      213: 8142093881425015723
+    second: BalloFightSprites_83
+  - first:
+      213: -2543206721687685657
+    second: BalloFightSprites_84
+  - first:
+      213: 6793176923787352653
+    second: BalloFightSprites_85
+  - first:
+      213: 5863526188946889141
+    second: BalloFightSprites_86
+  - first:
+      213: 6976282247923942943
+    second: BalloFightSprites_87
+  - first:
+      213: 8170062169432686007
+    second: BalloFightSprites_88
+  - first:
+      213: 2172696484618479471
+    second: BalloFightSprites_89
+  - first:
+      213: -2901086123774412415
+    second: BalloFightSprites_90
+  - first:
+      213: -3667642894954306967
+    second: BalloFightSprites_91
+  - first:
+      213: 1218719618722587553
+    second: BalloFightSprites_92
+  - first:
+      213: -2109136076040824
+    second: BalloFightSprites_93
+  - first:
+      213: -5124455448696029174
+    second: BalloFightSprites_94
+  - first:
+      213: 2362603817533758859
+    second: BalloFightSprites_95
+  - first:
+      213: -7655201023655025708
+    second: BalloFightSprites_96
+  - first:
+      213: 5565922942474781260
+    second: BalloFightSprites_97
+  - first:
+      213: -7348898565111607305
+    second: BalloFightSprites_98
+  - first:
+      213: 7643305433097318902
+    second: BalloFightSprites_99
+  - first:
+      213: 5328701106317237530
+    second: BalloFightSprites_100
+  - first:
+      213: -3604305438438536835
+    second: BalloFightSprites_101
+  - first:
+      213: -7612838527216247094
+    second: BalloFightSprites_102
+  - first:
+      213: -6668650242254992154
+    second: BalloFightSprites_103
+  - first:
+      213: 3094365324355702996
+    second: BalloFightSprites_104
+  - first:
+      213: 181071643198327709
+    second: BalloFightSprites_105
+  - first:
+      213: 6609303560324828203
+    second: BalloFightSprites_106
+  - first:
+      213: -4498681676004817658
+    second: BalloFightSprites_107
+  - first:
+      213: -1567326550659671052
+    second: BalloFightSprites_108
+  - first:
+      213: 2608061658113987509
+    second: BalloFightSprites_109
+  - first:
+      213: -8952781064369181781
+    second: BalloFightSprites_110
+  - first:
+      213: -1081628046793116598
+    second: BalloFightSprites_111
+  - first:
+      213: 8179814558749937172
+    second: BalloFightSprites_112
+  - first:
+      213: 8248166950037915800
+    second: BalloFightSprites_113
+  - first:
+      213: -7647642090223981505
+    second: BalloFightSprites_114
+  - first:
+      213: 7794112913754226931
+    second: BalloFightSprites_115
+  - first:
+      213: 1366555657845223476
+    second: BalloFightSprites_116
+  - first:
+      213: 5200314561371630532
+    second: BalloFightSprites_117
+  - first:
+      213: 1233227227900617117
+    second: BalloFightSprites_118
+  - first:
+      213: 5685318058687064733
+    second: BalloFightSprites_119
+  - first:
+      213: 3030889365727865589
+    second: BalloFightSprites_120
+  - first:
+      213: 3724988857662303400
+    second: BalloFightSprites_121
+  - first:
+      213: -2619967704297606493
+    second: BalloFightSprites_122
+  - first:
+      213: -2026082625559827454
+    second: BalloFightSprites_123
+  - first:
+      213: -7715388460372652667
+    second: BalloFightSprites_124
+  - first:
+      213: 1032412775162762479
+    second: BalloFightSprites_125
+  - first:
+      213: 8720956123381216513
+    second: BalloFightSprites_126
+  - first:
+      213: 6242639525505085508
+    second: BalloFightSprites_127
+  - first:
+      213: -3813271024487799689
+    second: BalloFightSprites_128
+  - first:
+      213: -8570891982082269670
+    second: BalloFightSprites_129
+  - first:
+      213: 4260163114093546722
+    second: BalloFightSprites_130
+  - first:
+      213: -6645626857224351080
+    second: BalloFightSprites_131
+  - first:
+      213: 8668496513602703719
+    second: BalloFightSprites_132
+  - first:
+      213: -1411593824440102632
+    second: BalloFightSprites_133
+  - first:
+      213: -3862519883369973082
+    second: BalloFightSprites_134
+  - first:
+      213: -6358334318230024276
+    second: BalloFightSprites_135
+  - first:
+      213: -4073374201798146605
+    second: BalloFightSprites_136
+  - first:
+      213: -753326612597460579
+    second: BalloFightSprites_137
+  - first:
+      213: -8150989099998717956
+    second: BalloFightSprites_138
+  - first:
+      213: -3664939064514165259
+    second: BalloFightSprites_139
+  - first:
+      213: 9148554495151899735
+    second: BalloFightSprites_140
+  - first:
+      213: -2541323517930103958
+    second: BalloFightSprites_141
+  - first:
+      213: -3588246647273631569
+    second: BalloFightSprites_142
+  - first:
+      213: 1286107435350814837
+    second: BalloFightSprites_143
+  - first:
+      213: -5345288029847349762
+    second: BalloFightSprites_144
+  - first:
+      213: -8255103322041502584
+    second: BalloFightSprites_145
+  - first:
+      213: -6295053206111341855
+    second: BalloFightSprites_146
+  - first:
+      213: 8331193294721906149
+    second: BalloFightSprites_147
+  - first:
+      213: -1992617321650133993
+    second: BalloFightSprites_148
+  - first:
+      213: 4535501808596042253
+    second: BalloFightSprites_149
+  - first:
+      213: -2313261644238958044
+    second: BalloFightSprites_150
+  - first:
+      213: 9180896346879386713
+    second: BalloFightSprites_151
+  - first:
+      213: -2051029453298742681
+    second: BalloFightSprites_152
+  - first:
+      213: -8680859165847029809
+    second: BalloFightSprites_153
+  - first:
+      213: -1987713149653885175
+    second: BalloFightSprites_154
+  - first:
+      213: -7751156785526557873
+    second: BalloFightSprites_155
+  - first:
+      213: 5812568241813741892
+    second: BalloFightSprites_156
+  - first:
+      213: 4017244316803002831
+    second: BalloFightSprites_157
+  - first:
+      213: -5453940278201701337
+    second: BalloFightSprites_158
+  - first:
+      213: -2720789270442843790
+    second: BalloFightSprites_159
+  - first:
+      213: -1208127452603571801
+    second: BalloFightSprites_160
+  - first:
+      213: 82389696036871296
+    second: BalloFightSprites_161
+  - first:
+      213: 774292306650692417
+    second: BalloFightSprites_162
+  - first:
+      213: -7208693772161019720
+    second: BalloFightSprites_163
+  - first:
+      213: 461023036597926656
+    second: BalloFightSprites_164
+  - first:
+      213: 3663668139651088449
+    second: BalloFightSprites_165
+  - first:
+      213: -5511012089861626285
+    second: BalloFightSprites_166
+  - first:
+      213: -7519494748549262880
+    second: BalloFightSprites_167
+  - first:
+      213: 4723519324684315804
+    second: BalloFightSprites_168
+  - first:
+      213: 7425355033919782458
+    second: BalloFightSprites_169
+  - first:
+      213: -5808076344618199382
+    second: BalloFightSprites_170
+  - first:
+      213: 281279662047540211
+    second: BalloFightSprites_171
+  - first:
+      213: -7554770527825271459
+    second: BalloFightSprites_172
+  - first:
+      213: -4774145493187267433
+    second: BalloFightSprites_173
+  - first:
+      213: 1120540623449801478
+    second: BalloFightSprites_174
+  - first:
+      213: 3758752098289503768
+    second: BalloFightSprites_175
+  - first:
+      213: -5973262226540136635
+    second: BalloFightSprites_176
+  - first:
+      213: -3501021451773825636
+    second: BalloFightSprites_177
+  - first:
+      213: -9051118782122908056
+    second: BalloFightSprites_178
+  - first:
+      213: 169003970761531885
+    second: BalloFightSprites_179
+  - first:
+      213: -4881711993065132449
+    second: BalloFightSprites_180
+  - first:
+      213: -339047564847648109
+    second: BalloFightSprites_181
+  - first:
+      213: -947838618594145042
+    second: BalloFightSprites_182
+  - first:
+      213: 4070055261106754875
+    second: BalloFightSprites_183
+  - first:
+      213: 2809479067790187221
+    second: BalloFightSprites_184
+  - first:
+      213: -3731152831086274753
+    second: BalloFightSprites_185
+  - first:
+      213: 8871607160101264103
+    second: BalloFightSprites_186
+  - first:
+      213: -5434527827641283043
+    second: BalloFightSprites_187
+  - first:
+      213: 6395030743943099129
+    second: BalloFightSprites_188
+  - first:
+      213: -3831477685761081414
+    second: BalloFightSprites_189
+  - first:
+      213: -6960801618952562427
+    second: BalloFightSprites_190
+  - first:
+      213: -1538641334933418510
+    second: BalloFightSprites_191
+  - first:
+      213: -932301943594954266
+    second: BalloFightSprites_192
+  - first:
+      213: -6291361795261465205
+    second: BalloFightSprites_193
+  - first:
+      213: -5081503875453846128
+    second: BalloFightSprites_194
+  - first:
+      213: -1035560319853400673
+    second: BalloFightSprites_195
+  - first:
+      213: 4426397565568669505
+    second: BalloFightSprites_196
+  - first:
+      213: -479455676168968282
+    second: BalloFightSprites_197
+  - first:
+      213: 7604825866433815530
+    second: BalloFightSprites_198
+  - first:
+      213: -7393404178959704133
+    second: BalloFightSprites_199
+  - first:
+      213: 6067234197668902133
+    second: BalloFightSprites_200
+  - first:
+      213: -1937099949025821844
+    second: BalloFightSprites_201
+  - first:
+      213: 4617663007672486815
+    second: BalloFightSprites_202
+  - first:
+      213: -7725847114734391360
+    second: BalloFightSprites_203
+  - first:
+      213: 2002149486677428232
+    second: BalloFightSprites_204
+  - first:
+      213: -3975387360685709567
+    second: BalloFightSprites_205
+  - first:
+      213: 4454938639636811769
+    second: BalloFightSprites_206
+  - first:
+      213: -6530664197503435692
+    second: BalloFightSprites_207
+  - first:
+      213: 7746144523361657768
+    second: BalloFightSprites_208
+  - first:
+      213: -2038580818671136086
+    second: BalloFightSprites_209
+  - first:
+      213: -4991670165572665391
+    second: BalloFightSprites_210
+  - first:
+      213: 7828664586127716478
+    second: BalloFightSprites_211
+  - first:
+      213: 5494618717290634963
+    second: BalloFightSprites_212
+  - first:
+      213: -2394992145899842000
+    second: BalloFightSprites_213
+  - first:
+      213: 795693385430319513
+    second: BalloFightSprites_214
+  - first:
+      213: -3750564190159583969
+    second: BalloFightSprites_215
+  - first:
+      213: -8848344968838984544
+    second: BalloFightSprites_216
+  - first:
+      213: -6690980237080230510
+    second: BalloFightSprites_217
+  - first:
+      213: -1058279530715779080
+    second: BalloFightSprites_218
+  - first:
+      213: 169485809402002827
+    second: BalloFightSprites_219
+  - first:
+      213: 5957013390893645820
+    second: BalloFightSprites_220
+  - first:
+      213: 3130127211150661134
+    second: BalloFightSprites_221
+  - first:
+      213: 1565926661693179432
+    second: BalloFightSprites_222
+  - first:
+      213: -2450872007556896870
+    second: BalloFightSprites_223
+  - first:
+      213: -7134304951701877442
+    second: BalloFightSprites_224
+  - first:
+      213: -4273805824278207813
+    second: BalloFightSprites_225
+  - first:
+      213: 4482250707092688349
+    second: BalloFightSprites_226
+  - first:
+      213: -3045019922693687972
+    second: BalloFightSprites_227
+  - first:
+      213: 5686675971166285504
+    second: BalloFightSprites_228
+  - first:
+      213: 749575248055251154
+    second: BalloFightSprites_229
+  - first:
+      213: -2314828081809685805
+    second: BalloFightSprites_230
+  - first:
+      213: -211569414644468298
+    second: BalloFightSprites_231
+  - first:
+      213: 951423935424396428
+    second: BalloFightSprites_232
+  - first:
+      213: -4948237221979778579
+    second: BalloFightSprites_233
+  - first:
+      213: 6440478741321875496
+    second: BalloFightSprites_234
+  - first:
+      213: -8602182979444561048
+    second: BalloFightSprites_235
+  - first:
+      213: -3912487797519570095
+    second: BalloFightSprites_236
+  - first:
+      213: -6069786503987242631
+    second: BalloFightSprites_237
+  - first:
+      213: 6825982523700805209
+    second: BalloFightSprites_238
+  - first:
+      213: 3699200089501351300
+    second: BalloFightSprites_239
+  - first:
+      213: 3788263106805284070
+    second: BalloFightSprites_240
+  - first:
+      213: 7190390006267619424
+    second: BalloFightSprites_241
+  - first:
+      213: 7852088530713613994
+    second: BalloFightSprites_242
+  - first:
+      213: -5046251522387162290
+    second: BalloFightSprites_243
+  - first:
+      213: 2718346597949185853
+    second: BalloFightSprites_244
+  - first:
+      213: 7186390308536941269
+    second: BalloFightSprites_245
+  - first:
+      213: 145832793115699643
+    second: BalloFightSprites_246
+  - first:
+      213: -7691743286993415924
+    second: BalloFightSprites_247
+  - first:
+      213: -8761515793568889019
+    second: BalloFightSprites_248
+  - first:
+      213: 8215192643091269663
+    second: BalloFightSprites_249
+  - first:
+      213: -4760953379393777680
+    second: BalloFightSprites_250
+  - first:
+      213: -268986142357498437
+    second: BalloFightSprites_251
+  - first:
+      213: 5677682516545527230
+    second: BalloFightSprites_252
+  - first:
+      213: -2169712623362976012
+    second: BalloFightSprites_253
+  - first:
+      213: 3050980384174470261
+    second: BalloFightSprites_254
+  - first:
+      213: -3736586318262858531
+    second: BalloFightSprites_255
+  - first:
+      213: 8166737100597063909
+    second: BalloFightSprites_256
+  - first:
+      213: 2849449350019496326
+    second: BalloFightSprites_257
+  - first:
+      213: -7710129239801191398
+    second: BalloFightSprites_258
+  - first:
+      213: -7581089131264005465
+    second: BalloFightSprites_259
+  - first:
+      213: -7483889485498225823
+    second: BalloFightSprites_260
+  - first:
+      213: 7152292563619344835
+    second: BalloFightSprites_261
+  - first:
+      213: -9120258325712943680
+    second: BalloFightSprites_262
+  - first:
+      213: -3484346991443781992
+    second: BalloFightSprites_263
+  - first:
+      213: 7516605773588838643
+    second: BalloFightSprites_264
+  - first:
+      213: -4895766224808486116
+    second: BalloFightSprites_265
+  - first:
+      213: 1673291595569756547
+    second: BalloFightSprites_266
+  - first:
+      213: 5625921930187914842
+    second: BalloFightSprites_267
+  - first:
+      213: -6424175477972906694
+    second: BalloFightSprites_268
+  - first:
+      213: 1208845099537916503
+    second: BalloFightSprites_269
+  - first:
+      213: 2057231248091147886
+    second: BalloFightSprites_270
+  - first:
+      213: 5898148556167405037
+    second: BalloFightSprites_271
+  - first:
+      213: 8742697996880386743
+    second: BalloFightSprites_272
+  - first:
+      213: 6654381721955595034
+    second: BalloFightSprites_273
+  - first:
+      213: 3612847746404739010
+    second: BalloFightSprites_274
+  - first:
+      213: 950328326915737602
+    second: BalloFightSprites_275
+  - first:
+      213: 9149504745595515511
+    second: BalloFightSprites_276
+  - first:
+      213: -3421315195182406384
+    second: BalloFightSprites_277
+  - first:
+      213: -7424657252982312679
+    second: BalloFightSprites_278
+  - first:
+      213: -7897681943757137161
+    second: BalloFightSprites_279
+  - first:
+      213: -708096706875793060
+    second: BalloFightSprites_280
+  - first:
+      213: 124964250314783763
+    second: BalloFightSprites_281
+  - first:
+      213: 6651790589500958840
+    second: BalloFightSprites_282
+  - first:
+      213: -8993194410732484548
+    second: BalloFightSprites_283
+  - first:
+      213: 5995990466571582104
+    second: BalloFightSprites_284
+  - first:
+      213: 723721007133636385
+    second: BalloFightSprites_285
+  - first:
+      213: 3850566703112049484
+    second: BalloFightSprites_286
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BalloFightSprites_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 276
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db84066ed40b7ab20800000000000000
+      internalID: 3145676713365620925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 276
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37f198ab7faa0af0800000000000000
+      internalID: -429337868816484550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 276
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34e0abda3d51bb10800000000000000
+      internalID: 1995478617276081215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 276
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3cc1b494e0cd1e0800000000000000
+      internalID: -2171845212343843862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 276
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d897a20e22fb7490800000000000000
+      internalID: -7747332454533850921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 276
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5413bca8c38a6f90800000000000000
+      internalID: -6959605376233565093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 276
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574ed186604537c70800000000000000
+      internalID: 8967603669518115957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 276
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149194b725f8dd100800000000000000
+      internalID: 134421148309461313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 276
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf13238832b09ec0800000000000000
+      internalID: -3562151349462032462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4223250d8606a77a0800000000000000
+      internalID: -6378679918928973276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8315b70ac94f450800000000000000
+      internalID: 6121690006580967624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd17492ec431d0f0800000000000000
+      internalID: -1094035174413886005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cb5159130d05920800000000000000
+      internalID: 2977108265065102367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45932c5bd55f3f230800000000000000
+      internalID: 3671547904067254612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7afdcfbe859d0fb0800000000000000
+      internalID: -4679919997432235396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6f3673b28f05830800000000000000
+      internalID: 4058016128757397157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 286
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a009a588ac723ec0800000000000000
+      internalID: -3588668889822068569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 284
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2032145186b25220800000000000000
+      internalID: 2473239811957338154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 284
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d630e8532f1d85f0800000000000000
+      internalID: -752911326025599271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_19
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 294
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbcc015544fe92f0800000000000000
+      internalID: -964064691660993605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 294
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8212796d783791e50800000000000000
+      internalID: 6780577741241000232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 288
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b88904050975660800000000000000
+      internalID: 7374521589197998851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 288
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d1c674bfc6f5840800000000000000
+      internalID: 5215006720009182502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cff01fe4bb34510800000000000000
+      internalID: 1532274245962300443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 288
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1342d6df542a865d0800000000000000
+      internalID: -3069024724564761551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_25
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4c7785217c20d60800000000000000
+      internalID: 7855059581695149225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_26
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 288
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db4bda749725cd40800000000000000
+      internalID: 5603928830002285524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_27
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 288
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e5de31836027430800000000000000
+      internalID: 3779089875239525890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_28
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba22056a80222d3e0800000000000000
+      internalID: -2030523061445320021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 286
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c9e358e5be1ac30800000000000000
+      internalID: 4369031904721017934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_30
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1f25b7ca0674df0800000000000000
+      internalID: -196081764847652363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 286
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf1e8b75c91bb060800000000000000
+      internalID: 6970193184258138059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_32
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030f066c08fbccba0800000000000000
+      internalID: -6067264038169939920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_33
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 286
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d301ba69be134bb0800000000000000
+      internalID: -4953081383469644844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_34
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45692913da49ac20800000000000000
+      internalID: 3218185679253628237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_35
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 286
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34231e852688142a0800000000000000
+      internalID: -6754968010099707325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_36
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36408cf294a4e650800000000000000
+      internalID: 6261310333160277564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9850cf9d58d11fb60800000000000000
+      internalID: 7778030492170585481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_38
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38622bf00a3a85930800000000000000
+      internalID: 4132232565965858435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7237fa9b2976693b0800000000000000
+      internalID: -5506099614535683289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_40
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fc2587d38e49b30800000000000000
+      internalID: 4293311695500267325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_41
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 247
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777d399672f6156e0800000000000000
+      internalID: -1850575756806858889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4a790481b3a40e0800000000000000
+      internalID: -2284948885588171544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c110e77a4ee879f60800000000000000
+      internalID: 8041052772407050524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_44
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b0748cb5d161f40800000000000000
+      internalID: 5698774658523269894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80110d51070769840800000000000000
+      internalID: 5230491643942015240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_46
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d29798645161bf0800000000000000
+      internalID: -354072128003691254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_47
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 271
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e6b24cfb0d37180800000000000000
+      internalID: -9118715298446610940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_48
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0276954667a422540800000000000000
+      internalID: 4981626010175366944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_49
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1ad8508cbc468a0800000000000000
+      internalID: -6312696717719526916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_50
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31b0a6abf38d6e10800000000000000
+      internalID: 2192553710454878527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_51
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 271
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e820ee0e499625b40800000000000000
+      internalID: 5427516589084639886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_52
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d51839dd980a000800000000000000
+      internalID: 45187581029211539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_53
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20678698626eca00800000000000000
+      internalID: 778667986923249706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_54
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 271
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61a35d5b96511a30800000000000000
+      internalID: 4184220754089582956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_55
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 278
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c759ef392ffa38a90800000000000000
+      internalID: -7312807913519671940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_56
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 278
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693cae6c78df2a380800000000000000
+      internalID: -8961321548914179178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_57
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 278
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1218432b78b92e0f0800000000000000
+      internalID: -1089137152757563103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 278
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b29bb3f40feb9c0800000000000000
+      internalID: -3909423203415938218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_59
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 278
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b04bb25f3cc42550800000000000000
+      internalID: 6135253164728467641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 247
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaee60f43de1bd80800000000000000
+      internalID: -8236541431856043269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 247
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14079c12822efd7c0800000000000000
+      internalID: -4044265278361997247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_62
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 247
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c3278be8681e690800000000000000
+      internalID: -7574625150722491336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_63
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 247
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e88aca11821ad90800000000000000
+      internalID: -7088340282128167386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 247
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb54a95169c1ac490800000000000000
+      internalID: -7725330779867560517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 247
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdbd0978c2485cd0800000000000000
+      internalID: -2569230158623031876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_66
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 247
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d28d5b29c18da50800000000000000
+      internalID: 6546013474824662339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 247
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f26f02c5276ab020800000000000000
+      internalID: 2358310766749115120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_68
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 247
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ca5bf27749d8380800000000000000
+      internalID: -8967348043402335215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_69
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 247
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6176e34dbb38d50800000000000000
+      internalID: 6738435987730798301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_70
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 247
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ef7dca3badde130800000000000000
+      internalID: 3597772142572731943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_71
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 247
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5f00a7cd5109340800000000000000
+      internalID: 4868415233871377873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a894bf150d8d7dd0800000000000000
+      internalID: -2486676366092363615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_73
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 256
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31db6c2b8ef21d80800000000000000
+      internalID: -8281276891081748165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_74
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 256
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6561350d71d89fcb0800000000000000
+      internalID: -4829673991959275946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_75
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 257
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c686d317d2ee1e4e0800000000000000
+      internalID: -1954018884361295764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_76
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 257
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abac71895e42420a0800000000000000
+      internalID: -6907355359961691462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_77
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bed291776590f10800000000000000
+      internalID: 2236413759489698622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319a98ff0dc286df0800000000000000
+      internalID: -186850108383844077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 258
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf3d536fcc618cd0800000000000000
+      internalID: -2557643475388645428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_80
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fae94b5b989c28c0800000000000000
+      internalID: -4022672574129771787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_81
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e062e33d2006fb0800000000000000
+      internalID: -4656718908397056443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_82
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732edb9933a9e6010800000000000000
+      internalID: 1184053298458386999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 258
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3383a1f378ef070800000000000000
+      internalID: 8142093881425015723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_84
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e57b6b06f6b4bcd0800000000000000
+      internalID: -2543206721687685657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_85
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 258
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ad9be9b66364e50800000000000000
+      internalID: 6793176923787352653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_86
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 182
+        width: 220
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b91167a00e6f5150800000000000000
+      internalID: 5863526188946889141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_87
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 243
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16ce581ebbb0d060800000000000000
+      internalID: 6976282247923942943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_88
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 243
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd74e99144e16170800000000000000
+      internalID: 8170062169432686007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 243
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67ac6af0f7f62e10800000000000000
+      internalID: 2172696484618479471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_90
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 243
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1897c918a854db7d0800000000000000
+      internalID: -2901086123774412415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9626343183ae91dc0800000000000000
+      internalID: -3667642894954306967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_92
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a362c24903c9e010800000000000000
+      internalID: 1218719618722587553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_93
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 218
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885976d70c188fff0800000000000000
+      internalID: -2109136076040824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_94
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 218
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0088218be642e8b0800000000000000
+      internalID: -5124455448696029174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_95
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 218
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dd41987a7a9c020800000000000000
+      internalID: 2362603817533758859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_96
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 218
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3e5dc5a3343c590800000000000000
+      internalID: -7655201023655025708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_97
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 231
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4208693d612e3d40800000000000000
+      internalID: 5565922942474781260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_98
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 219
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff0520f0b7730a90800000000000000
+      internalID: -7348898565111607305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_99
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 219
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f13491abc9721a60800000000000000
+      internalID: 7643305433097318902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_100
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 219
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d154c6c6953f940800000000000000
+      internalID: 5328701106317237530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_101
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 219
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79ccd7dc4feafdc0800000000000000
+      internalID: -3604305438438536835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_102
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 215
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace1edca1b3c95690800000000000000
+      internalID: -7612838527216247094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_103
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 217
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec811bcfe13473a0800000000000000
+      internalID: -6668650242254992154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_104
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 223
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0128b2ed461fa20800000000000000
+      internalID: 3094365324355702996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_105
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 217
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b8bbb33bb438200800000000000000
+      internalID: 181071643198327709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_106
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 189
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cc2ed0296f8bb50800000000000000
+      internalID: 6609303560324828203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_107
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 189
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6058c28c9d87191c0800000000000000
+      internalID: -4498681676004817658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_108
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 189
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb54e46eccbf3ae0800000000000000
+      internalID: -1567326550659671052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_109
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 189
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3533c8242b13420800000000000000
+      internalID: 2608061658113987509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_110
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 189
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab6e6a4e0551c380800000000000000
+      internalID: -8952781064369181781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_111
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 189
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44fbcba5094df0f0800000000000000
+      internalID: -1081628046793116598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_112
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 211
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ecbdea00a848170800000000000000
+      internalID: 8179814558749937172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_113
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 211
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8988021f320677270800000000000000
+      internalID: 8248166950037915800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_114
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 191
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cafd2b90e1ed590800000000000000
+      internalID: -7647642090223981505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_115
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 191
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f00b9b66604a2c60800000000000000
+      internalID: 7794112913754226931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_116
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 191
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4303aa7612bf6f210800000000000000
+      internalID: 1366555657845223476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_117
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 203
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbe8d68a8a3b2840800000000000000
+      internalID: 5200314561371630532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_118
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 198
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d912b5e31ad4d1110800000000000000
+      internalID: 1233227227900617117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_119
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 198
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ae72bf6ae46ee40800000000000000
+      internalID: 5685318058687064733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_120
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 186
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fae7bdd1d1ef0a20800000000000000
+      internalID: 3030889365727865589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_121
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 186
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acef3551a1d1b330800000000000000
+      internalID: 3724988857662303400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_122
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2785e014104abd0800000000000000
+      internalID: -2619967704297606493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_123
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 195
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c6ae13698e1e3e0800000000000000
+      internalID: -2026082625559827454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_124
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 196
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d075bb21f6de490800000000000000
+      internalID: -7715388460372652667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_125
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 203
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4d625f2fdd35e00800000000000000
+      internalID: 1032412775162762479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_126
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 200
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105b7eb736f070970800000000000000
+      internalID: 8720956123381216513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4403b82d29f42a650800000000000000
+      internalID: 6242639525505085508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_128
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 197
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7746d11f43a841bc0800000000000000
+      internalID: -3813271024487799689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_129
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 196
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e1ebf17231e0980800000000000000
+      internalID: -8570891982082269670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_130
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 193
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec84cce7c32f1b30800000000000000
+      internalID: 4260163114093546722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_131
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 191
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892d859559df5c3a0800000000000000
+      internalID: -6645626857224351080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_132
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7615006c6afac4870800000000000000
+      internalID: 8668496513602703719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_133
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 160
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811dc1745e2096ce0800000000000000
+      internalID: -1411593824440102632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_134
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 160
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa79dd61a2956ac0800000000000000
+      internalID: -3862519883369973082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_135
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf49be10a8a2c7a0800000000000000
+      internalID: -6358334318230024276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_136
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 173
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5c490ceb77877c0800000000000000
+      internalID: -4073374201798146605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 173
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91b748ef65ab85f0800000000000000
+      internalID: -753326612597460579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_138
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 173
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7de7e699ed1ee80800000000000000
+      internalID: -8150989099998717956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_139
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 173
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f54e28a655832dc0800000000000000
+      internalID: -3664939064514165259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_140
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 153
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75405db97d136fe70800000000000000
+      internalID: 9148554495151899735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_141
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 152
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b1e6699b76bbcd0800000000000000
+      internalID: -2541323517930103958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_142
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0d4c68facf33ec0800000000000000
+      internalID: -3588246647273631569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_143
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570f21bf5eb29d110800000000000000
+      internalID: 1286107435350814837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_144
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 153
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef51dce7bd8b1d5b0800000000000000
+      internalID: -5345288029847349762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_145
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 153
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884b199144bff6d80800000000000000
+      internalID: -8255103322041502584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_146
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2bc8f267a73a8a0800000000000000
+      internalID: -6295053206111341855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_147
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 153
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5f30739285e9370800000000000000
+      internalID: 8331193294721906149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_148
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714e0c17a1dc854e0800000000000000
+      internalID: -1992617321650133993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_149
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0242836dd651fe30800000000000000
+      internalID: 4535501808596042253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_150
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422d99e6ac4a5efd0800000000000000
+      internalID: -2313261644238958044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_151
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 160
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9546d63c598196f70800000000000000
+      internalID: 9180896346879386713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_152
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 153
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ac34c34974983e0800000000000000
+      internalID: -2051029453298742681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_153
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc77e72f494678780800000000000000
+      internalID: -8680859165847029809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_154
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fd187fb693a64e0800000000000000
+      internalID: -1987713149653885175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_155
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43b45098fb5e6490800000000000000
+      internalID: -7751156785526557873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_156
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 157
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441660605046aa050800000000000000
+      internalID: 5812568241813741892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_157
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 157
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1fffefb6e10c730800000000000000
+      internalID: 4017244316803002831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_158
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 154
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ca7939636bf44b0800000000000000
+      internalID: -5453940278201701337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_159
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 154
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2716f8ae290dd3ad0800000000000000
+      internalID: -2720789270442843790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_160
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 142
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1aa289b7edb3fe0800000000000000
+      internalID: -1208127452603571801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_161
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 142
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c1e65fdf4b42100800000000000000
+      internalID: 82389696036871296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_162
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 142
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b7b3220c6deba00800000000000000
+      internalID: 774292306650692417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_163
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 142
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b095cf153395fb90800000000000000
+      internalID: -7208693772161019720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_164
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bf0b95202e56600800000000000000
+      internalID: 461023036597926656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_165
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 147
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140c1d613c6f7d230800000000000000
+      internalID: 3663668139651088449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_166
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3562aeee3b3f483b0800000000000000
+      internalID: -5511012089861626285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_167
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e15e4ebd5365a790800000000000000
+      internalID: -7519494748549262880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_168
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c608daccf4d8140800000000000000
+      internalID: 4723519324684315804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_169
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 104
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e72f7ef092c0760800000000000000
+      internalID: 7425355033919782458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_170
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 105
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6deaa4651956fa0800000000000000
+      internalID: -5808076344618199382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_171
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 105
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3b2e2cc5e47e300800000000000000
+      internalID: 281279662047540211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_172
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 105
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5562695b30182790800000000000000
+      internalID: -7554770527825271459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_173
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 105
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7947a8ce7f3debdb0800000000000000
+      internalID: -4774145493187267433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_174
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 105
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603ce1992c5fc8f00800000000000000
+      internalID: 1120540623449801478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_175
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 105
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ecc416e15c92430800000000000000
+      internalID: 3758752098289503768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_176
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 105
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547f0d417a5ba1da0800000000000000
+      internalID: -5973262226540136635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_177
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dafffe98fd96fc0800000000000000
+      internalID: -3501021451773825636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_178
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866a2bb2c67f36280800000000000000
+      internalID: -9051118782122908056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_179
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de12fda473c685200800000000000000
+      internalID: 169003970761531885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_180
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ea6958ecca04cb0800000000000000
+      internalID: -4881711993065132449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3927b4f39067b4bf0800000000000000
+      internalID: -339047564847648109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_182
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec8c4a5cc998d2f0800000000000000
+      internalID: -947838618594145042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_183
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b355a7622bdbb7830800000000000000
+      internalID: 4070055261106754875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_184
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da978fa3564df620800000000000000
+      internalID: 2809479067790187221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_185
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37d864c448483cc0800000000000000
+      internalID: -3731152831086274753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_186
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ead5a455b74e1b70800000000000000
+      internalID: 8871607160101264103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_187
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 113
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e477febbda494b0800000000000000
+      internalID: -5434527827641283043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_188
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 113
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f23e6c4496bfb850800000000000000
+      internalID: 6395030743943099129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_189
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 113
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfff57485bd3dac0800000000000000
+      internalID: -3831477685761081414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_190
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 113
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5095e56bec3466f90800000000000000
+      internalID: -6960801618952562427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_191
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 114
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd8f82abd5a5aae0800000000000000
+      internalID: -1538641334933418510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_192
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 114
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1dd94625ccf03f0800000000000000
+      internalID: -932301943594954266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_193
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 114
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8df9ffb7c790b8a0800000000000000
+      internalID: -6291361795261465205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_194
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d7dc2f52fda79b0800000000000000
+      internalID: -5081503875453846128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_195
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9de5af2063f0a1f0800000000000000
+      internalID: -1035560319853400673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_196
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147df524229bd6d30800000000000000
+      internalID: 4426397565568669505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_197
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a767605a91a859f0800000000000000
+      internalID: -479455676168968282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_198
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae36d7b55d4c98960800000000000000
+      internalID: 7604825866433815530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_199
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfd738321a556990800000000000000
+      internalID: -7393404178959704133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_200
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f438217b55233450800000000000000
+      internalID: 6067234197668902133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_201
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b73eb0cd90e15e0800000000000000
+      internalID: -1937099949025821844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_202
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bc7c04a0c351040800000000000000
+      internalID: 4617663007672486815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_203
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfa7418bf648c490800000000000000
+      internalID: -7725847114734391360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_204
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80883aca95019cb10800000000000000
+      internalID: 2002149486677428232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_205
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 129
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10720c9024694d8c0800000000000000
+      internalID: -3975387360685709567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_206
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffc6b7e61f13dd30800000000000000
+      internalID: 4454938639636811769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_207
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c3278638b6e55a0800000000000000
+      internalID: -6530664197503435692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_208
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a32fc53765df7b60800000000000000
+      internalID: 7746144523361657768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_209
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa29e29db8185b3e0800000000000000
+      internalID: -2038580818671136086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_210
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df30217e660abab0800000000000000
+      internalID: -4991670165572665391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_211
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70b2d986f005ac60800000000000000
+      internalID: 7828664586127716478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_212
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de12549c9ec04c40800000000000000
+      internalID: 5494618717290634963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_213
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 120
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0361acf155743ced0800000000000000
+      internalID: -2394992145899842000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_214
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 110
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991c3b41beeda0b00800000000000000
+      internalID: 795693385430319513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_215
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15cc3a8db153fbc0800000000000000
+      internalID: -3750564190159583969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_216
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0accc32a12d543580800000000000000
+      internalID: -8848344968838984544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_217
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2958ca9bcecd423a0800000000000000
+      internalID: -6690980237080230510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_218
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 120
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff6e92bf5c3051f0800000000000000
+      internalID: -1058279530715779080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_219
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 120
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d30e712722a5200800000000000000
+      internalID: 169485809402002827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_220
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfff57e0e109ba250800000000000000
+      internalID: 5957013390893645820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_221
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 95
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e065b6a4d12707b20800000000000000
+      internalID: 3130127211150661134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_222
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 95
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826098e800a4bb510800000000000000
+      internalID: 1565926661693179432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_223
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 95
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a976f97f4e0ccfdd0800000000000000
+      internalID: -2450872007556896870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_224
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 110
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dcf72127bddfc90800000000000000
+      internalID: -7134304951701877442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_225
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 110
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2e6e41f3460b4c0800000000000000
+      internalID: -4273805824278207813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_226
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 110
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddc0862547243e30800000000000000
+      internalID: 4482250707092688349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_227
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 110
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55fad5738aedb5d0800000000000000
+      internalID: -3045019922693687972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_228
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 110
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cead1e9aa12bee40800000000000000
+      internalID: 5686675971166285504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_229
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d032c877b6076a00800000000000000
+      internalID: 749575248055251154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_230
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 110
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d282a3cf1410efd0800000000000000
+      internalID: -2314828081809685805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_231
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 110
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b577c20dba501df0800000000000000
+      internalID: -211569414644468298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_232
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 110
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c76c54703243d00800000000000000
+      internalID: 951423935424396428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_233
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 110
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de19787a674545bb0800000000000000
+      internalID: -4948237221979778579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_234
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82002f7ca4d216950800000000000000
+      internalID: 6440478741321875496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_235
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bab411828ee9880800000000000000
+      internalID: -8602182979444561048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_236
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15babc0d31d04b9c0800000000000000
+      internalID: -3912487797519570095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_237
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979516f6559c3cba0800000000000000
+      internalID: -6069786503987242631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_238
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ef53090f2cabe50800000000000000
+      internalID: 6825982523700805209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_239
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d32d7d1e2365330800000000000000
+      internalID: 3699200089501351300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_240
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecb8dc793d929430800000000000000
+      internalID: 3788263106805284070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_241
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068a9184d9569c360800000000000000
+      internalID: 7190390006267619424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_242
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa69a12aae838fc60800000000000000
+      internalID: 7852088530713613994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_243
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bc6d00afc18f9b0800000000000000
+      internalID: -5046251522387162290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_244
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f172314d189b520800000000000000
+      internalID: 2718346597949185853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_245
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da77a519ef2bb360800000000000000
+      internalID: 7186390308536941269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_246
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9a346172a160200800000000000000
+      internalID: 145832793115699643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_247
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 80
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01134bab30714590800000000000000
+      internalID: -7691743286993415924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_248
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5470a566ec7d86680800000000000000
+      internalID: -8761515793568889019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_249
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f188bd4de2a320270800000000000000
+      internalID: 8215192643091269663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_250
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 79
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffc9054022bdedb0800000000000000
+      internalID: -4760953379393777680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_251
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb55747578e544cf0800000000000000
+      internalID: -268986142357498437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_252
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd542aca2e2bce40800000000000000
+      internalID: 5677682516545527230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_253
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6d4cb5dd1a3e1e0800000000000000
+      internalID: -2169712623362976012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_254
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 79
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574776f9e72475a20800000000000000
+      internalID: 3050980384174470261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_255
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc8b537a8af42cc0800000000000000
+      internalID: -3736586318262858531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_256
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0771faf14165170800000000000000
+      internalID: 8166737100597063909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_257
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 57
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689316936174b8720800000000000000
+      internalID: 2849449350019496326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_258
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 57
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a142c417e4e100590800000000000000
+      internalID: -7710129239801191398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_259
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 57
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa2f68f99f8ac690800000000000000
+      internalID: -7581089131264005465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_260
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 57
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16be89e0a22e32890800000000000000
+      internalID: -7483889485498225823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_261
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 57
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1f230313c024360800000000000000
+      internalID: 7152292563619344835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_262
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5c41cbf555e6180800000000000000
+      internalID: -9120258325712943680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_263
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896dac44fdc15afc0800000000000000
+      internalID: -3484346991443781992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_264
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8b96b5029505860800000000000000
+      internalID: 7516605773588838643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_265
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b5fe2be8ebe0cb0800000000000000
+      internalID: -4895766224808486116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_266
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389f49737d9b83710800000000000000
+      internalID: 1673291595569756547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_267
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e3ee6203a431e40800000000000000
+      internalID: 5625921930187914842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_268
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d46a4807eb8d6a0800000000000000
+      internalID: -6424175477972906694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_269
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752ed6a963ea6c010800000000000000
+      internalID: 1208845099537916503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_270
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e6e43abe0cc8c10800000000000000
+      internalID: 2057231248091147886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_271
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 72
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded57d2bcde6ad150800000000000000
+      internalID: 5898148556167405037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_272
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba1392e18d445970800000000000000
+      internalID: 8742697996880386743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_273
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 72
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13f3017bec195c50800000000000000
+      internalID: 6654381721955595034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_274
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 72
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7660832e9632230800000000000000
+      internalID: 3612847746404739010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_275
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208cdc9049e303d00800000000000000
+      internalID: 950328326915737602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_276
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772b8f7071299fe70800000000000000
+      internalID: 9149504745595515511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_277
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015a186f4fb0580d0800000000000000
+      internalID: -3421315195182406384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_278
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91136f0e09156f890800000000000000
+      internalID: -7424657252982312679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_279
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fad659ad1cc56290800000000000000
+      internalID: -7897681943757137161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_280
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c516b08fbc55c26f0800000000000000
+      internalID: -708096706875793060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_281
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb2a5d256fbb100800000000000000
+      internalID: 124964250314783763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_282
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878ad776c48ef4c50800000000000000
+      internalID: 6651790589500958840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_283
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 64
+        width: 85
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c380348d451c13380800000000000000
+      internalID: -8993194410732484548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_284
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 65
+        width: 80
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ab0acaf89063350800000000000000
+      internalID: 5995990466571582104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_285
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 65
+        width: 80
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12730baeb6c2b0a00800000000000000
+      internalID: 723721007133636385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BalloFightSprites_286
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 333
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43d0fae306ff6530800000000000000
+      internalID: 3850566703112049484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ec0c38250df1b48cdbab617ff2386c4c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BalloFightSprites_0: 3145676713365620925
+      BalloFightSprites_1: -429337868816484550
+      BalloFightSprites_10: 6121690006580967624
+      BalloFightSprites_100: 5328701106317237530
+      BalloFightSprites_101: -3604305438438536835
+      BalloFightSprites_102: -7612838527216247094
+      BalloFightSprites_103: -6668650242254992154
+      BalloFightSprites_104: 3094365324355702996
+      BalloFightSprites_105: 181071643198327709
+      BalloFightSprites_106: 6609303560324828203
+      BalloFightSprites_107: -4498681676004817658
+      BalloFightSprites_108: -1567326550659671052
+      BalloFightSprites_109: 2608061658113987509
+      BalloFightSprites_11: -1094035174413886005
+      BalloFightSprites_110: -8952781064369181781
+      BalloFightSprites_111: -1081628046793116598
+      BalloFightSprites_112: 8179814558749937172
+      BalloFightSprites_113: 8248166950037915800
+      BalloFightSprites_114: -7647642090223981505
+      BalloFightSprites_115: 7794112913754226931
+      BalloFightSprites_116: 1366555657845223476
+      BalloFightSprites_117: 5200314561371630532
+      BalloFightSprites_118: 1233227227900617117
+      BalloFightSprites_119: 5685318058687064733
+      BalloFightSprites_12: 2977108265065102367
+      BalloFightSprites_120: 3030889365727865589
+      BalloFightSprites_121: 3724988857662303400
+      BalloFightSprites_122: -2619967704297606493
+      BalloFightSprites_123: -2026082625559827454
+      BalloFightSprites_124: -7715388460372652667
+      BalloFightSprites_125: 1032412775162762479
+      BalloFightSprites_126: 8720956123381216513
+      BalloFightSprites_127: 6242639525505085508
+      BalloFightSprites_128: -3813271024487799689
+      BalloFightSprites_129: -8570891982082269670
+      BalloFightSprites_13: 3671547904067254612
+      BalloFightSprites_130: 4260163114093546722
+      BalloFightSprites_131: -6645626857224351080
+      BalloFightSprites_132: 8668496513602703719
+      BalloFightSprites_133: -1411593824440102632
+      BalloFightSprites_134: -3862519883369973082
+      BalloFightSprites_135: -6358334318230024276
+      BalloFightSprites_136: -4073374201798146605
+      BalloFightSprites_137: -753326612597460579
+      BalloFightSprites_138: -8150989099998717956
+      BalloFightSprites_139: -3664939064514165259
+      BalloFightSprites_14: -4679919997432235396
+      BalloFightSprites_140: 9148554495151899735
+      BalloFightSprites_141: -2541323517930103958
+      BalloFightSprites_142: -3588246647273631569
+      BalloFightSprites_143: 1286107435350814837
+      BalloFightSprites_144: -5345288029847349762
+      BalloFightSprites_145: -8255103322041502584
+      BalloFightSprites_146: -6295053206111341855
+      BalloFightSprites_147: 8331193294721906149
+      BalloFightSprites_148: -1992617321650133993
+      BalloFightSprites_149: 4535501808596042253
+      BalloFightSprites_15: 4058016128757397157
+      BalloFightSprites_150: -2313261644238958044
+      BalloFightSprites_151: 9180896346879386713
+      BalloFightSprites_152: -2051029453298742681
+      BalloFightSprites_153: -8680859165847029809
+      BalloFightSprites_154: -1987713149653885175
+      BalloFightSprites_155: -7751156785526557873
+      BalloFightSprites_156: 5812568241813741892
+      BalloFightSprites_157: 4017244316803002831
+      BalloFightSprites_158: -5453940278201701337
+      BalloFightSprites_159: -2720789270442843790
+      BalloFightSprites_16: -3588668889822068569
+      BalloFightSprites_160: -1208127452603571801
+      BalloFightSprites_161: 82389696036871296
+      BalloFightSprites_162: 774292306650692417
+      BalloFightSprites_163: -7208693772161019720
+      BalloFightSprites_164: 461023036597926656
+      BalloFightSprites_165: 3663668139651088449
+      BalloFightSprites_166: -5511012089861626285
+      BalloFightSprites_167: -7519494748549262880
+      BalloFightSprites_168: 4723519324684315804
+      BalloFightSprites_169: 7425355033919782458
+      BalloFightSprites_17: 2473239811957338154
+      BalloFightSprites_170: -5808076344618199382
+      BalloFightSprites_171: 281279662047540211
+      BalloFightSprites_172: -7554770527825271459
+      BalloFightSprites_173: -4774145493187267433
+      BalloFightSprites_174: 1120540623449801478
+      BalloFightSprites_175: 3758752098289503768
+      BalloFightSprites_176: -5973262226540136635
+      BalloFightSprites_177: -3501021451773825636
+      BalloFightSprites_178: -9051118782122908056
+      BalloFightSprites_179: 169003970761531885
+      BalloFightSprites_18: -752911326025599271
+      BalloFightSprites_180: -4881711993065132449
+      BalloFightSprites_181: -339047564847648109
+      BalloFightSprites_182: -947838618594145042
+      BalloFightSprites_183: 4070055261106754875
+      BalloFightSprites_184: 2809479067790187221
+      BalloFightSprites_185: -3731152831086274753
+      BalloFightSprites_186: 8871607160101264103
+      BalloFightSprites_187: -5434527827641283043
+      BalloFightSprites_188: 6395030743943099129
+      BalloFightSprites_189: -3831477685761081414
+      BalloFightSprites_19: -964064691660993605
+      BalloFightSprites_190: -6960801618952562427
+      BalloFightSprites_191: -1538641334933418510
+      BalloFightSprites_192: -932301943594954266
+      BalloFightSprites_193: -6291361795261465205
+      BalloFightSprites_194: -5081503875453846128
+      BalloFightSprites_195: -1035560319853400673
+      BalloFightSprites_196: 4426397565568669505
+      BalloFightSprites_197: -479455676168968282
+      BalloFightSprites_198: 7604825866433815530
+      BalloFightSprites_199: -7393404178959704133
+      BalloFightSprites_2: 1995478617276081215
+      BalloFightSprites_20: 6780577741241000232
+      BalloFightSprites_200: 6067234197668902133
+      BalloFightSprites_201: -1937099949025821844
+      BalloFightSprites_202: 4617663007672486815
+      BalloFightSprites_203: -7725847114734391360
+      BalloFightSprites_204: 2002149486677428232
+      BalloFightSprites_205: -3975387360685709567
+      BalloFightSprites_206: 4454938639636811769
+      BalloFightSprites_207: -6530664197503435692
+      BalloFightSprites_208: 7746144523361657768
+      BalloFightSprites_209: -2038580818671136086
+      BalloFightSprites_21: 7374521589197998851
+      BalloFightSprites_210: -4991670165572665391
+      BalloFightSprites_211: 7828664586127716478
+      BalloFightSprites_212: 5494618717290634963
+      BalloFightSprites_213: -2394992145899842000
+      BalloFightSprites_214: 795693385430319513
+      BalloFightSprites_215: -3750564190159583969
+      BalloFightSprites_216: -8848344968838984544
+      BalloFightSprites_217: -6690980237080230510
+      BalloFightSprites_218: -1058279530715779080
+      BalloFightSprites_219: 169485809402002827
+      BalloFightSprites_22: 5215006720009182502
+      BalloFightSprites_220: 5957013390893645820
+      BalloFightSprites_221: 3130127211150661134
+      BalloFightSprites_222: 1565926661693179432
+      BalloFightSprites_223: -2450872007556896870
+      BalloFightSprites_224: -7134304951701877442
+      BalloFightSprites_225: -4273805824278207813
+      BalloFightSprites_226: 4482250707092688349
+      BalloFightSprites_227: -3045019922693687972
+      BalloFightSprites_228: 5686675971166285504
+      BalloFightSprites_229: 749575248055251154
+      BalloFightSprites_23: 1532274245962300443
+      BalloFightSprites_230: -2314828081809685805
+      BalloFightSprites_231: -211569414644468298
+      BalloFightSprites_232: 951423935424396428
+      BalloFightSprites_233: -4948237221979778579
+      BalloFightSprites_234: 6440478741321875496
+      BalloFightSprites_235: -8602182979444561048
+      BalloFightSprites_236: -3912487797519570095
+      BalloFightSprites_237: -6069786503987242631
+      BalloFightSprites_238: 6825982523700805209
+      BalloFightSprites_239: 3699200089501351300
+      BalloFightSprites_24: -3069024724564761551
+      BalloFightSprites_240: 3788263106805284070
+      BalloFightSprites_241: 7190390006267619424
+      BalloFightSprites_242: 7852088530713613994
+      BalloFightSprites_243: -5046251522387162290
+      BalloFightSprites_244: 2718346597949185853
+      BalloFightSprites_245: 7186390308536941269
+      BalloFightSprites_246: 145832793115699643
+      BalloFightSprites_247: -7691743286993415924
+      BalloFightSprites_248: -8761515793568889019
+      BalloFightSprites_249: 8215192643091269663
+      BalloFightSprites_25: 7855059581695149225
+      BalloFightSprites_250: -4760953379393777680
+      BalloFightSprites_251: -268986142357498437
+      BalloFightSprites_252: 5677682516545527230
+      BalloFightSprites_253: -2169712623362976012
+      BalloFightSprites_254: 3050980384174470261
+      BalloFightSprites_255: -3736586318262858531
+      BalloFightSprites_256: 8166737100597063909
+      BalloFightSprites_257: 2849449350019496326
+      BalloFightSprites_258: -7710129239801191398
+      BalloFightSprites_259: -7581089131264005465
+      BalloFightSprites_26: 5603928830002285524
+      BalloFightSprites_260: -7483889485498225823
+      BalloFightSprites_261: 7152292563619344835
+      BalloFightSprites_262: -9120258325712943680
+      BalloFightSprites_263: -3484346991443781992
+      BalloFightSprites_264: 7516605773588838643
+      BalloFightSprites_265: -4895766224808486116
+      BalloFightSprites_266: 1673291595569756547
+      BalloFightSprites_267: 5625921930187914842
+      BalloFightSprites_268: -6424175477972906694
+      BalloFightSprites_269: 1208845099537916503
+      BalloFightSprites_27: 3779089875239525890
+      BalloFightSprites_270: 2057231248091147886
+      BalloFightSprites_271: 5898148556167405037
+      BalloFightSprites_272: 8742697996880386743
+      BalloFightSprites_273: 6654381721955595034
+      BalloFightSprites_274: 3612847746404739010
+      BalloFightSprites_275: 950328326915737602
+      BalloFightSprites_276: 9149504745595515511
+      BalloFightSprites_277: -3421315195182406384
+      BalloFightSprites_278: -7424657252982312679
+      BalloFightSprites_279: -7897681943757137161
+      BalloFightSprites_28: -2030523061445320021
+      BalloFightSprites_280: -708096706875793060
+      BalloFightSprites_281: 124964250314783763
+      BalloFightSprites_282: 6651790589500958840
+      BalloFightSprites_283: -8993194410732484548
+      BalloFightSprites_284: 5995990466571582104
+      BalloFightSprites_285: 723721007133636385
+      BalloFightSprites_286: 3850566703112049484
+      BalloFightSprites_29: 4369031904721017934
+      BalloFightSprites_3: -2171845212343843862
+      BalloFightSprites_30: -196081764847652363
+      BalloFightSprites_31: 6970193184258138059
+      BalloFightSprites_32: -6067264038169939920
+      BalloFightSprites_33: -4953081383469644844
+      BalloFightSprites_34: 3218185679253628237
+      BalloFightSprites_35: -6754968010099707325
+      BalloFightSprites_36: 6261310333160277564
+      BalloFightSprites_37: 7778030492170585481
+      BalloFightSprites_38: 4132232565965858435
+      BalloFightSprites_39: -5506099614535683289
+      BalloFightSprites_4: -7747332454533850921
+      BalloFightSprites_40: 4293311695500267325
+      BalloFightSprites_41: -1850575756806858889
+      BalloFightSprites_42: -2284948885588171544
+      BalloFightSprites_43: 8041052772407050524
+      BalloFightSprites_44: 5698774658523269894
+      BalloFightSprites_45: 5230491643942015240
+      BalloFightSprites_46: -354072128003691254
+      BalloFightSprites_47: -9118715298446610940
+      BalloFightSprites_48: 4981626010175366944
+      BalloFightSprites_49: -6312696717719526916
+      BalloFightSprites_5: -6959605376233565093
+      BalloFightSprites_50: 2192553710454878527
+      BalloFightSprites_51: 5427516589084639886
+      BalloFightSprites_52: 45187581029211539
+      BalloFightSprites_53: 778667986923249706
+      BalloFightSprites_54: 4184220754089582956
+      BalloFightSprites_55: -7312807913519671940
+      BalloFightSprites_56: -8961321548914179178
+      BalloFightSprites_57: -1089137152757563103
+      BalloFightSprites_58: -3909423203415938218
+      BalloFightSprites_59: 6135253164728467641
+      BalloFightSprites_6: 8967603669518115957
+      BalloFightSprites_60: -8236541431856043269
+      BalloFightSprites_61: -4044265278361997247
+      BalloFightSprites_62: -7574625150722491336
+      BalloFightSprites_63: -7088340282128167386
+      BalloFightSprites_64: -7725330779867560517
+      BalloFightSprites_65: -2569230158623031876
+      BalloFightSprites_66: 6546013474824662339
+      BalloFightSprites_67: 2358310766749115120
+      BalloFightSprites_68: -8967348043402335215
+      BalloFightSprites_69: 6738435987730798301
+      BalloFightSprites_7: 134421148309461313
+      BalloFightSprites_70: 3597772142572731943
+      BalloFightSprites_71: 4868415233871377873
+      BalloFightSprites_72: -2486676366092363615
+      BalloFightSprites_73: -8281276891081748165
+      BalloFightSprites_74: -4829673991959275946
+      BalloFightSprites_75: -1954018884361295764
+      BalloFightSprites_76: -6907355359961691462
+      BalloFightSprites_77: 2236413759489698622
+      BalloFightSprites_78: -186850108383844077
+      BalloFightSprites_79: -2557643475388645428
+      BalloFightSprites_8: -3562151349462032462
+      BalloFightSprites_80: -4022672574129771787
+      BalloFightSprites_81: -4656718908397056443
+      BalloFightSprites_82: 1184053298458386999
+      BalloFightSprites_83: 8142093881425015723
+      BalloFightSprites_84: -2543206721687685657
+      BalloFightSprites_85: 6793176923787352653
+      BalloFightSprites_86: 5863526188946889141
+      BalloFightSprites_87: 6976282247923942943
+      BalloFightSprites_88: 8170062169432686007
+      BalloFightSprites_89: 2172696484618479471
+      BalloFightSprites_9: -6378679918928973276
+      BalloFightSprites_90: -2901086123774412415
+      BalloFightSprites_91: -3667642894954306967
+      BalloFightSprites_92: 1218719618722587553
+      BalloFightSprites_93: -2109136076040824
+      BalloFightSprites_94: -5124455448696029174
+      BalloFightSprites_95: 2362603817533758859
+      BalloFightSprites_96: -7655201023655025708
+      BalloFightSprites_97: 5565922942474781260
+      BalloFightSprites_98: -7348898565111607305
+      BalloFightSprites_99: 7643305433097318902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
