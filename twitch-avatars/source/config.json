@@ -1,0 +1,24 @@
+{
+    "username" : "hector_pulido_",
+    "oauthToken": "oauth:****",
+    "channelName" : "hector_pulido_",
+    "backgroundPath" : "/Users/hectorpulido/own-projects/AvatarClone/Assets/sprites/fondo_avatares.png",
+    "foregroundPath" : "/Users/hectorpulido/own-projects/AvatarClone/Assets/sprites/fondo_adelante.png",
+    "defaultAvatarPath" : [
+        "/Users/hectorpulido/own-projects/AvatarClone/Assets/sprites/gatete.png",
+        "/Users/hectorpulido/own-projects/AvatarClone/Assets/sprites/gatete_mancha_1.png",
+        "/Users/hectorpulido/own-projects/AvatarClone/Assets/sprites/gatete_mancha_2.png",
+        "/Users/hectorpulido/own-projects/AvatarClone/Assets/sprites/gatete_mancha_3.png"
+    ],
+    "defaultAvatarAccessory": [
+        "/Users/hectorpulido/own-projects/AvatarClone/Assets/sprites/sombrero.png"
+    ],
+    "avatarPaths" : {
+        "m_keys": [],
+        "m_values": []
+    },
+    "posibleColors" : {
+        "m_keys": ["white", "black", "red", "green", "olive", "pink", "purple", "orange", "yellow", "blue", "navy", "indigo"],
+        "m_values": ["#D6D4CA", "#38333D", "#9C1F49", "#30AD64", "#B7D669", "#F177C8", "#643F95", "#D25A3E", "#F7CD0D", "#58E8FF", "#2A7DE3", "#3A339C"]
+    }
+}
