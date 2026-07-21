@@ -1,65 +1,86 @@
-# Awesome Unity Projects
+<div align="center">
 
-A collection of small games, clones and gameplay systems made with Unity over the years — for learning, Twitch streams and fun. Each folder is a self-contained Unity project with its own README.
+# 🎮 Awesome Unity Projects
 
-> Most of these lived as standalone repos between 2017 and 2021; they were merged here to keep them in one place.
+**38 small games, clones and gameplay systems made with Unity — each folder is a self-contained project.**
 
-## Games
+![Engine](https://img.shields.io/badge/Engine-Unity-222c37?logo=unity&logoColor=white)
+![Language](https://img.shields.io/badge/Language-C%23-178600)
+![Projects](https://img.shields.io/badge/Projects-38-blue)
+![License](https://img.shields.io/github/license/HectorPulido/AwesomeUnityProjects?color=orange)
+![Stars](https://img.shields.io/github/stars/HectorPulido/AwesomeUnityProjects?style=flat&color=yellow)
 
-| Project | Description |
-|---|---|
-| [angry-birds](angry-birds) | Simple physics game based on Angry Birds |
-| [angry-birds-vr](angry-birds-vr) | The Angry Birds clone, adapted to VR |
-| [arpg-online](arpg-online) | Simple online Action RPG |
-| [beat-em-up](beat-em-up) | Simple beat 'em up |
-| [fps-online](fps-online) | First person shooter made with UNet |
-| [mario-maker](mario-maker) | Mario Maker-like level editor |
-| [minecraft-like](minecraft-like) | Simple Minecraft-based voxel game |
-| [pokemon-like](pokemon-like) | Pokémon-like game |
-| [punch-out](punch-out) | Punch-Out!!-like boxing game |
-| [simple-rts](simple-rts) | Simple real-time strategy game |
-| [survival-zombie](survival-zombie) | Survival zombie game |
-| [the-battle-cats](the-battle-cats) | The Battle Cats-like game, made on Twitch |
-| [third-person-shooter](third-person-shooter) | Multipurpose third person shooter |
+Made between 2017 and 2021 for learning, [Twitch streams](https://www.twitch.tv/hector_pulido_) and fun.<br>
+Most of these lived as standalone repos; they were merged here to keep them all in one place.
 
-## Arcade clones
+</div>
 
-| Project | Description |
-|---|---|
-| [arkanoid](arkanoid) | Arkanoid clone |
-| [asteroids](asteroids) | Asteroids-like game: base, multiplayer and AI versions |
-| [balloon-fight](balloon-fight) | Balloon Fight clone |
-| [contra](contra) | Contra-like run and gun |
-| [flappy-bird](flappy-bird) | Flappy Bird-like game |
-| [game-of-life](game-of-life) | Conway's Game of Life |
-| [match3](match3) | Match-3 game |
-| [minesweeper](minesweeper) | Minesweeper clone |
-| [pacman-online](pacman-online) | Online Pac-Man adaptation |
-| [rc-pro-am](rc-pro-am) | R.C. Pro-Am-like racing game |
-| [ridiculous-fishing](ridiculous-fishing) | Ridiculous Fishing clone |
-| [rotare](rotare) | Mobile game clone |
-| [snake](snake) | Snake game |
-| [space-invaders](space-invaders) | Space Invaders-like game |
-| [tetris](tetris) | Tetris clone |
-| [worms](worms) | Worms-like artillery game |
+> [!TIP]
+> The [`builds/`](builds) folder contains ready-to-play builds of several of these games
+> (balloon fight, contra, rc-pro-am, ridiculous fishing, rotare, space invaders and worms).
 
-## Mechanics & systems
+> [!NOTE]
+> These projects were made with Unity 2017–2019. Opening them with a modern Unity
+> version will trigger the upgrade dialog, and some may need small fixes to run —
+> they are kept as learning references, warts and all.
 
-| Project | Description |
-|---|---|
-| [draw-in-3d](draw-in-3d) | Draw with physics in Unity 3D |
-| [floating-damage-number](floating-damage-number) | Floating damage numbers, perfect for an RPG |
-| [inventory-system](inventory-system) | Simple inventory system, perfect for an RPG |
-| [procedural-dungeon](procedural-dungeon) | Procedural dungeon generation algorithm |
-| [rewind-mechanic](rewind-mechanic) | Rewind-time mechanic, Braid style |
-| [twitch-avatars](twitch-avatars) | Twitch avatars overlay clone |
-| [twitch-chat-link](twitch-chat-link) | API to connect Unity and Twitch chat |
-| [unet-chat](unet-chat) | Simple chat made with UNet |
-| [virtual-pet](virtual-pet) | Virtual pet project |
+## 🕹️ Games
 
-## Related repos (kept separate)
+| Preview | Project | Description |
+|:---:|---|---|
+| <img src="angry-birds/Images/ExampleImage.png" width="150"> | **[angry-birds](angry-birds)** | Simple physics game based on Angry Birds |
+| <img src="angry-birds-vr/img/test.gif" width="150"> | **[angry-birds-vr](angry-birds-vr)** | The Angry Birds clone, adapted to VR |
+| <img src="arpg-online/Images/ExampleImage.png" width="150"> | **[arpg-online](arpg-online)** | Simple online Action RPG |
+| <img src="beat-em-up/Images/ExampleImage.png" width="150"> | **[beat-em-up](beat-em-up)** | Simple beat 'em up |
+| <img src="fps-online/Images/ExampleImage.png" width="150"> | **[fps-online](fps-online)** | First person shooter made with UNet |
+| <img src="mario-maker/Images/ExampleImage.png" width="150"> | **[mario-maker](mario-maker)** | Mario Maker-like level editor |
+| <img src="minecraft-like/Images/ExampleImage.png" width="150"> | **[minecraft-like](minecraft-like)** | Simple voxel game based on Minecraft |
+| | **[pokemon-like](pokemon-like)** | Pokémon-like game |
+| <img src="punch-out/Images/ExampleImage.png" width="150"> | **[punch-out](punch-out)** | Punch-Out!!-like boxing game |
+| <img src="simple-rts/Images/ExampleImage.png" width="150"> | **[simple-rts](simple-rts)** | Simple real-time strategy game |
+| <img src="survival-zombie/Images/ExampleImage.png" width="150"> | **[survival-zombie](survival-zombie)** | Survival zombie game |
+| <img src="the-battle-cats/Images/ExampleImage.png" width="150"> | **[the-battle-cats](the-battle-cats)** | The Battle Cats-like game, made on Twitch |
+| <img src="third-person-shooter/Images/ExampleImage.png" width="150"> | **[third-person-shooter](third-person-shooter)** | Multipurpose third person shooter |
+
+## 👾 Arcade clones
+
+| Preview | Project | Description |
+|:---:|---|---|
+| | **[arkanoid](arkanoid)** | Arkanoid clone |
+| <img src="asteroids/img/img_ml.gif" width="150"> | **[asteroids](asteroids)** | Asteroids-like game: base, multiplayer and AI versions |
+| <img src="balloon-fight/Images/ExampleImage.png" width="150"> | **[balloon-fight](balloon-fight)** | Balloon Fight clone |
+| <img src="contra/Images/ExampleImage.png" width="150"> | **[contra](contra)** | Contra-like run and gun |
+| | **[flappy-bird](flappy-bird)** | Flappy Bird-like game |
+| <img src="game-of-life/Images/img.gif" width="150"> | **[game-of-life](game-of-life)** | Conway's Game of Life |
+| | **[match3](match3)** | Match-3 game |
+| <img src="minesweeper/Images/ExampleImage.png" width="150"> | **[minesweeper](minesweeper)** | Minesweeper clone |
+| <img src="pacman-online/Images/ExampleImage.png" width="150"> | **[pacman-online](pacman-online)** | Online Pac-Man adaptation |
+| <img src="rc-pro-am/Images/ExampleImage.png" width="150"> | **[rc-pro-am](rc-pro-am)** | R.C. Pro-Am-like racing game |
+| <img src="ridiculous-fishing/Images/ExampleImage.png" width="150"> | **[ridiculous-fishing](ridiculous-fishing)** | Ridiculous Fishing clone |
+| <img src="rotare/Images/test.gif" width="150"> | **[rotare](rotare)** | Mobile game clone |
+| <img src="snake/Images/ExampleImage.png" width="150"> | **[snake](snake)** | Snake game |
+| <img src="space-invaders/img/img.gif" width="150"> | **[space-invaders](space-invaders)** | Space Invaders-like game |
+| | **[tetris](tetris)** | Tetris clone |
+| <img src="worms/Images/ExampleImage.png" width="150"> | **[worms](worms)** | Worms-like artillery game |
+
+## ⚙️ Mechanics & systems
+
+| Preview | Project | Description |
+|:---:|---|---|
+| | **[draw-in-3d](draw-in-3d)** | Draw with physics in Unity 3D |
+| | **[floating-damage-number](floating-damage-number)** | Floating damage numbers, perfect for an RPG |
+| <img src="inventory-system/Images/ExampleImage.png" width="150"> | **[inventory-system](inventory-system)** | Simple inventory system, perfect for an RPG |
+| | **[procedural-dungeon](procedural-dungeon)** | Procedural dungeon generation algorithm |
+| <img src="rewind-mechanic/Images/ExampleImage.png" width="150"> | **[rewind-mechanic](rewind-mechanic)** | Rewind-time mechanic, Braid style |
+| | **[twitch-avatars](twitch-avatars)** | Twitch avatars overlay clone |
+| <img src="twitch-chat-link/Images/Test.gif" width="150"> | **[twitch-chat-link](twitch-chat-link)** | API to connect Unity and Twitch chat |
+| | **[unet-chat](unet-chat)** | Simple chat made with UNet |
+| | **[virtual-pet](virtual-pet)** | Virtual pet project |
+
+## 🚀 Related repos (kept separate)
 
 Bigger or more specialized Unity projects live in their own repos:
+
 [Unity-Battle-Royale](https://github.com/HectorPulido/Unity-Battle-Royale-game-Made-With-Unity) ·
 [Unity-MMO-Framework](https://github.com/HectorPulido/Unity-MMO-Framework) ·
 [Evolutionary-Neural-Networks-on-unity-for-bots](https://github.com/HectorPulido/Evolutionary-Neural-Networks-on-unity-for-bots) ·
